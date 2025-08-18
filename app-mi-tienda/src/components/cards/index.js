@@ -1,8 +1,10 @@
 import ButtonCard from "./botonAgregarAlCarrito"
+import "../../App.css";
+
 function Card(props){
     return(
         <>
-            <div style={{ border: '2px solid black', padding:'10px', margin:'5px'}}>
+            <div className='card'>
                 <h2>{props.name}</h2>
                 <img>{props.img}</img>
                 <p>{props.description}</p>

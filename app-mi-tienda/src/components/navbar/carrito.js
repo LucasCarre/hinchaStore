@@ -1,3 +1,5 @@
+import "../../App.css";
+
 function Carrito(){
     return(
         <div className="carrito">

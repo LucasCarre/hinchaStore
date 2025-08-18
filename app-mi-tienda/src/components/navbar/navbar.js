@@ -1,4 +1,6 @@
 import Carrito from './carrito'
+import "../../App.css";
+
 
 
 function Navbar(){
@@ -8,9 +10,9 @@ function Navbar(){
                 <h1>~ HINCHA ST⚽​RE ~</h1>
             </div>
             <ul>
-                <li>Incio</li>
-                <li>Nosotros</li>
-                <li>Como comprar?</li>
+                <a>Inicio</a>
+                <a>Productos</a>
+                <a>Nosotros</a>
             </ul>
             <Carrito/>
         </nav>

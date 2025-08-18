@@ -1,0 +1,10 @@
+:root {
+    --colorPrimario: #0d47a1;
+    --colorSecundario: #ffcc00;
+    --colorFondo: #f5f5f5;
+    --colorTexto: #333;
+    
+    --paddingGeneral: 15px;
+    --bordeRedondeado: 8px;
+    --sombraSuave: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
