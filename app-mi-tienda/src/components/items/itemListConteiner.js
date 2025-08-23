@@ -1,4 +1,4 @@
-function Saludo(props){
+function ItemListConteiner(props){
     return (
         <>
         <h1>{props.mensaje}</h1>
@@ -7,4 +7,4 @@ function Saludo(props){
     )
 }
 
-export default Saludo
+export default ItemListConteiner

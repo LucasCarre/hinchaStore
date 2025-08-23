@@ -1,0 +1,162 @@
+[
+{
+"id": 1,
+"equipo": "Camiseta Talleres Local",
+"temporada": 2025,
+"precio": 70000,
+"stock": 10,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20018635-800-auto?v=638755857704400000&width=800&height=auto&aspect=true"
+},
+{
+"id": 2,
+"equipo": "Camiseta Belgrano Local",
+"temporada": 2025,
+"precio": 60000,
+"stock": 10,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20517553-800-auto?v=638914047514530000&width=800&height=auto&aspect=true"
+},
+{
+"id": 3,
+"equipo": "Camiseta Instituto Local",
+"temporada": 2025,
+"precio": 50000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20200043-800-auto?v=638799859339370000&width=800&height=auto&aspect=true"
+},
+{
+"id": 4,
+"equipo": "Camiseta Boca Jrs. Local",
+"temporada": 2025,
+"precio": 90500,
+"stock": 15,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20358268-800-auto?v=638852427474800000&width=800&height=auto&aspect=true"
+},
+{
+"id": 5,
+"equipo": "Camiseta River Local",
+"temporada": 2025,
+"precio": 90000,
+"stock": 15,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20357726-800-auto?v=638852428056400000&width=800&height=auto&aspect=true"
+},
+{
+"id": 6,
+"equipo": "Camiseta Velez Local",
+"temporada": 2025,
+"precio": 80000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20497214-800-auto?v=638906132578900000&width=800&height=auto&aspect=true"
+},
+{
+"id": 7,
+"equipo": "Camiseta Independiente",
+"temporada": 2025,
+"precio": 90000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/19309735-800-auto?v=638602969303600000&width=800&height=auto&aspect=true"
+},
+{
+"id": 8,
+"equipo": "Camiseta San Lorenzo Local",
+"temporada": 2025,
+"precio": 70800,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20227484-800-auto?v=638808602520770000&width=800&height=auto&aspect=true"
+},
+{
+"id": 9,
+"equipo": "Camiseta Lanus Local",
+"temporada": 2025,
+"precio": 65000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/19796412-800-auto?v=638702934158070000&width=800&height=auto&aspect=true"
+},
+{
+"id": 10,
+"equipo": "Camiseta Talleres",
+"temporada": 2025,
+"precio": 70000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20237462-800-auto?v=638810919697300000&width=800&height=auto&aspect=true"
+},
+{
+"id": 11,
+"equipo": "Camiseta Boca Jrs.",
+"temporada": 2025,
+"precio": 90500,
+"stock": 15,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20362177-800-auto?v=638852438659930000&width=800&height=auto&aspect=true"
+},
+{
+"id": 12,
+"equipo": "Camiseta River",
+"temporada": 2025,
+"precio": 90000,
+"stock": 15,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20357769-800-auto?v=638852429177770000&width=800&height=auto&aspect=true"
+},
+{
+"id": 13,
+"equipo": "Camiseta Velez",
+"temporada": 2025,
+"precio": 80000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20497201-800-auto?v=638906132509570000&width=800&height=auto&aspect=true"
+},
+{
+"id": 14,
+"equipo": "Camiseta Independiente",
+"temporada": 2025,
+"precio": 90000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/19466411-800-auto?v=638844760524470000&width=800&height=auto&aspect=true"
+},
+{
+"id": 15,
+"equipo": "Camiseta San Lorenzo",
+"temporada": 2025,
+"precio": 70800,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20227439-800-auto?v=638808602277330000&width=800&height=auto&aspect=true"
+},
+{
+"id": 16,
+"equipo": "Camiseta Belgrano",
+"temporada": 2025,
+"precio": 60000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20517705-800-auto?v=638914047662270000&width=800&height=auto&aspect=true"
+},
+{
+"id": 17,
+"equipo": "Camiseta Instituto",
+"temporada": 2025,
+"precio": 50000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20285557-800-auto?v=638827468915600000&width=800&height=auto&aspect=true"
+},
+{
+"id": 18,
+"equipo": "Camiseta Liverpool",
+"temporada": 2025,
+"precio": 190000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20513260-800-auto?v=638912065319070000&width=800&height=auto&aspect=true"
+},
+{
+"id": 19,
+"equipo": "Camiseta AS Roma",
+"temporada": 2025,
+"precio": 125000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20513352-800-auto?v=638912068901700000&width=800&height=auto&aspect=true"
+},
+{
+"id": 20,
+"equipo": "Camiseta Manchester United",
+"temporada": 2025,
+"precio": 145000,
+"stock": 5,
+"img": "https://newsport.vtexassets.com/arquivos/ids/20430670-800-auto?v=638879294501270000&width=800&height=auto&aspect=true"
+}
+]

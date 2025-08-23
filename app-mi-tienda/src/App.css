@@ -73,6 +73,12 @@ h1, h2, h3 {
   box-shadow: var(--sombraSuave);
   max-width: 250px;
 }
+.card img {
+  width: 100%; /* La imagen ocupará el 100% del ancho de su contenedor */
+  height: auto; /* La altura se ajustará automáticamente para mantener la proporción */
+  border-radius: 4px; /* Opcional: bordes redondeados para la imagen */
+  max-width: 250px; /* Opcional: limita el ancho máximo de la imagen */
+}
 
 .card h2 {
   margin-bottom: 10px;
@@ -80,6 +86,7 @@ h1, h2, h3 {
 
 .card p {
   margin-bottom: 8px;
+  font-weight: bold;
 }
 
 .button-card button {
