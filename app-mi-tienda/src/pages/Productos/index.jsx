@@ -1,5 +1,4 @@
-import FilterMarcas from "../../components/filtros/marcas"
-import ProductListSimple from "../../components/filtros/marcas"
+import Filtros from "../../components/filtros/filtros"
 import Navbar from "../../components/navbar/navbar"
 
 const Productos = () =>{
@@ -11,7 +10,7 @@ const Productos = () =>{
             </header>
         </div>
         <div className='main-container'>
-        <FilterMarcas/>
+        <Filtros/>
         </div>
         </>
     )

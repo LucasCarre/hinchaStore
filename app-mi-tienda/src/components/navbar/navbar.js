@@ -13,7 +13,7 @@ function Navbar(){
             <ul>
                 <a><Link to='/'>Inicio</Link></a>
                 <a><Link to='/productos'>Productos</Link></a>
-                <a>Nosotros</a>
+                <a><Link to={'/nosotros'}>Nosotros</Link></a>
             </ul>
             <Carrito/>
         </nav>

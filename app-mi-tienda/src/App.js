@@ -5,6 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Home from "./pages/Home";
 import ItemDetailConteiner from "./components/items/itemDetailConteiner";
 import Productos from "./pages/Productos";
+import Nosotros from "./pages/Nosotros";
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/productos/:id" element={<ItemDetailConteiner/>}/>
         <Route path="/productos" element={<Productos/>}/>
+        <Route path="/nosotros" element={<Nosotros/>}/>
       </Routes>
     </BrowserRouter>
     // <>
