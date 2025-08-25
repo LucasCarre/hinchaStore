@@ -97,6 +97,7 @@ h1, h2, h3 {
   border-radius: var(--bordeRedondeado);
   cursor: pointer;
   transition: background 0.2s ease;
+  margin: 2px;
 }
 
 .button-card button:hover {
@@ -110,4 +111,43 @@ h1, h2, h3 {
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
+}
+
+/* Estilos para la sección de detalles del producto */
+section {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    color: #f4f4f4;
+}
+
+section h2 {
+    color: #fff;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+section img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+section p {
+    color: #aaa;
+    font-size: 1em;
+    margin: 5px 0;
+}
+
+section p:last-of-type {
+    font-weight: bold;
+    color: #2980b9;
+    font-size: 1.2em;
+    margin-top: 15px;
 }

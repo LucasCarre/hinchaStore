@@ -1,5 +1,6 @@
 import Carrito from './carrito'
 import "../../App.css";
+import { Link } from 'react-router-dom';
 
 
 
@@ -10,8 +11,8 @@ function Navbar(){
                 <h1>~ HINCHA ST⚽​RE ~</h1>
             </div>
             <ul>
-                <a>Inicio</a>
-                <a>Productos</a>
+                <a><Link to='/'>Inicio</Link></a>
+                <a><Link to='/productos'>Productos</Link></a>
                 <a>Nosotros</a>
             </ul>
             <Carrito/>
