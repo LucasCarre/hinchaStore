@@ -186,3 +186,8 @@ section p:last-of-type {
   line-height: 1.8;
   margin-bottom: 15px;
 }
+
+a {
+  text-decoration: none;
+  color: inherit; /* mantiene el color del texto */
+}
